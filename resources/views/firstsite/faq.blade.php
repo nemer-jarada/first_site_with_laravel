@@ -1,4 +1,4 @@
-@extends('master')
+@extends('firstsite.master')
 @section('title', 'FAQ Page')
 @section('content')
     <section class="py-5">

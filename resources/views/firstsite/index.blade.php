@@ -1,4 +1,4 @@
-@extends('master')
+@extends('firstsite.master')
 @section('title', 'First Site || Laravel ')
 @section('content')
     <!-- Header-->

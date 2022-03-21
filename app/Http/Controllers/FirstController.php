@@ -8,38 +8,38 @@ class FirstController extends Controller
 {
     public function index()
     {
-        return view('index');
+        return view('firstsite.index');
     }
     public function about()
     {
-        return view('about');
+        return view('firstsite.about');
     }
     public function contact()
     {
-        return view('contact');
+        return view('firstsite.contact');
     }
     public function pricing()
     {
-        return view('pricing');
+        return view('firstsite.pricing');
     }
     public function faq()
     {
-        return view('faq');
+        return view('firstsite.faq');
     }
     public function bloghome()
     {
-        return view('blog-home');
+        return view('firstsite.blog-home');
     }
     public function blogpost()
     {
-        return view('blog-post');
+        return view('firstsite.blog-post');
     }
     public function portfolioover()
     {
-        return view('portfolio-overview');
+        return view('firstsite.portfolio-overview');
     }
     public function portfolioitem()
     {
-        return view('portfolio-item');
+        return view('firstsite.portfolio-item');
     }
 };

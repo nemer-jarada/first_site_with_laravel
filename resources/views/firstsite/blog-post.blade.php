@@ -1,4 +1,4 @@
-@extends('master')
+@extends('firstsite.master')
 @section('title', 'Blog-Post Page')
 @section('content')
     <!-- Page Content-->
