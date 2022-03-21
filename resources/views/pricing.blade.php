@@ -1,4 +1,4 @@
-@extends('firstsite.master')
+@extends('master')
 @section('title', 'Pricing Page')
 @section('content')
     <section class="bg-light py-5">
